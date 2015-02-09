@@ -1,0 +1,40 @@
+#header {
+ background-color:#7FFEFF;
+ border-radius:5px;
+ height:50px;
+ position:fixed;
+ z-index:1;
+ }
+
+.left { border-radius:5px;
+    background-color:#68E8B8;
+    height:50px;
+    float:left;
+}
+
+.right {  border-radius:5px;
+    background-color:#68E8B8;
+    height:50px;
+    float:right;
+    }
+#footer {
+    border-radius:5px;
+    background-color:#72FF94;
+    height:50px;
+    clear:both;
+    }
+
+#experience {
+    font-family:Garamond;
+    float: right;
+    font-size:24px
+    }    
+
+.title {
+    font-family:Verdana;
+    font-size:12px
+    }
+.description{
+    font-size:12px;
+}
+    
